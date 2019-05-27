@@ -5,6 +5,8 @@ ruby '2.5.1'
 gem 'rspec-rails', '~> 3.5'
 gem 'rest-client'
 gem 'webmock'
+gem "mini_racer"
+gem "autoprefixer-rails"
 gem 'bootstrap'
 gem 'jquery-rails'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
