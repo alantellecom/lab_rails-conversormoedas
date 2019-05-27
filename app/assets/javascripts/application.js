@@ -11,6 +11,8 @@
 // about supported directives.
 //
 //= require jquery
+//= require popper
+//= require bootstrap
 //= require tether/dist/js/tether
 //= require bootstrap/dist/js/bootstrap.bundle
 //= require rails-ujs
